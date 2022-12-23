@@ -1,12 +1,12 @@
-Blood Bank Management System
+**Blood Bank Management System**
 
 A console application that recreates the working of a blood bank.
 
-Language
+**Language**
 
 C++
 
-Functionalities
+**Functionalities**
 
 1. Add a new user
 2. Edit the details of an existing user
